@@ -1,6 +1,6 @@
 # Setup Azure Lab Environment
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/SJaschinski/20483-Programming-in-C-Sharp/master/LabEnvironment/template.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSJaschinski%2F20483-Programming-in-C-Sharp%2Fmaster%2FLabEnvironment%2Ftemplate.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
 </a>
 
